@@ -1,2 +1,2 @@
-# community_back
-사내게시판 프로젝트 back
+# community-site-back-team2
+2조 롯데정보통신 사내 커뮤니티 사이트 백엔드
